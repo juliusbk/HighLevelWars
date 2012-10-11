@@ -1,6 +1,6 @@
 SPORTICUS
 goto start
-data: return
+data: TRAP
 start: x = 5
 copy(data, x)
 x = x+4

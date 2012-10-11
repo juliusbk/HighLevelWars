@@ -1,6 +1,6 @@
 EPILEPTIC
 goto start
-data: return
+data: BOMB
 start: x = 5
 copy(data, x)
 x = x+4
