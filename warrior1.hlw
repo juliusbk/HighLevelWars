@@ -1,0 +1,7 @@
+EPILEPTIC
+goto start
+data: return
+start: x = 5
+copy(data, x)
+x = x+4
+goto -2
